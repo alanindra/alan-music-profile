@@ -1,2 +1,2 @@
 # alan-music-profile
-Alan's music profile from Last.fm and Spotify data
+Alan's Last.fm scrobble data and Spotify (Exportify) data analysis from 2019-2024.
